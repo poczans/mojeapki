@@ -1,0 +1,52 @@
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\obj\Debug\App.g.i.cs
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\obj\Debug\MainPage.g.i.cs
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\obj\Debug\Gps2.g.resources
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\Bin\Debug\ApplicationIcon.png
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\Bin\Debug\Background.png
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\Bin\Debug\Gps2.dll
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\Bin\Debug\Gps2.pdb
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\Bin\Debug\AppManifest.xaml
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\Bin\Debug\Gps2.xap
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\obj\Debug\Gps2.dll
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\obj\Debug\Gps2.pdb
+C:\Users\Arkadiusz\Desktop\OBW\Gps2\Gps2\obj\Debug\XapCacheFile.xml
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\Bin\Debug\ApplicationIcon.png
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\Bin\Debug\Background.png
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\Bin\Debug\Gps2.dll
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\Bin\Debug\Gps2.pdb
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\Bin\Debug\AppManifest.xaml
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\Bin\Debug\Gps2.xap
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\obj\Debug\App.g.i.cs
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\obj\Debug\MainPage.g.i.cs
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\obj\Debug\Gps2.g.resources
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\obj\Debug\Gps2.dll
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\obj\Debug\Gps2.pdb
+C:\Users\Piotrus\Desktop\OBW\Gps2\Gps2\obj\Debug\XapCacheFile.xml
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\Bin\Debug\ApplicationIcon.png
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\Bin\Debug\Background.png
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\Bin\Debug\Gps2.dll
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\Bin\Debug\Gps2.pdb
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\Bin\Debug\AppManifest.xaml
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\Bin\Debug\Gps2.xap
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\App.g.i.cs
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\MainPage.g.i.cs
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\Gps2.g.resources
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\Gps2.dll
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\Gps2.pdb
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\XapCacheFile.xml
+C:\Users\Szymander\Documents\OBW\Gps2\Gps2\obj\Debug\start.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\Bin\Debug\ApplicationIcon.png
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\Bin\Debug\Background.png
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\Bin\Debug\Gps2.dll
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\Bin\Debug\Gps2.pdb
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\Bin\Debug\AppManifest.xaml
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\Bin\Debug\Gps2.xap
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\App.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\MainPage.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\start.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\Gps2.g.resources
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\Gps2.dll
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\Gps2.pdb
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Gps2\Gps2\obj\Debug\XapCacheFile.xml

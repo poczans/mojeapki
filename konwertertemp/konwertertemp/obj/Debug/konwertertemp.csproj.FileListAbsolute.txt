@@ -1,0 +1,14 @@
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\Bin\Debug\ApplicationIcon.png
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\Bin\Debug\Background.png
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\Bin\Debug\konwertertemp.dll
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\Bin\Debug\konwertertemp.pdb
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\Bin\Debug\AppManifest.xaml
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\Bin\Debug\konwertertemp.xap
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\App.g.i.cs
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\MainPage.g.i.cs
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\konwertertemp.g.resources
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\konwertertemp.dll
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\konwertertemp.pdb
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\XapCacheFile.xml
+c:\users\szymander\documents\visual studio 2010\Projects\konwertertemp\konwertertemp\obj\Debug\start.g.i.cs

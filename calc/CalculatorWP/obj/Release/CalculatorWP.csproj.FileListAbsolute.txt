@@ -1,0 +1,39 @@
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\ApplicationIcon.png
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\Background.png
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\CalculatorWP.dll
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\CalculatorWP.pdb
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\AppManifest.xaml
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\CalculatorWP.xap
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\App.g.i.cs
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\MainPage.g.i.cs
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\CalculatorWP.g.resources
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\CalculatorWP.dll
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\CalculatorWP.pdb
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\XapCacheFile.xml
+C:\Users\Szymander\Downloads\C#\CalculatorWP\Bin\Release\ApplicationIcon.png
+C:\Users\Szymander\Downloads\C#\CalculatorWP\Bin\Release\Background.png
+C:\Users\Szymander\Downloads\C#\CalculatorWP\Bin\Release\CalculatorWP.dll
+C:\Users\Szymander\Downloads\C#\CalculatorWP\Bin\Release\CalculatorWP.pdb
+C:\Users\Szymander\Downloads\C#\CalculatorWP\Bin\Release\AppManifest.xaml
+C:\Users\Szymander\Downloads\C#\CalculatorWP\Bin\Release\CalculatorWP.xap
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\App.g.i.cs
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\MainPage.g.i.cs
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\CalculatorWP.g.resources
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\CalculatorWP.dll
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\CalculatorWP.pdb
+C:\Users\Szymander\Downloads\C#\CalculatorWP\obj\Release\XapCacheFile.xml
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\Bin\Release\ApplicationIcon.png
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\Bin\Release\Background.png
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\Bin\Release\CalculatorWP.dll
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\Bin\Release\CalculatorWP.pdb
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\Bin\Release\AppManifest.xaml
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\Bin\Release\CalculatorWP.xap
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\App.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\MainPage.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\CalculatorWP.g.resources
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\CalculatorWP.dll
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\CalculatorWP.pdb
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\XapCacheFile.xml
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\calc\CalculatorWP\obj\Release\start.g.i.cs

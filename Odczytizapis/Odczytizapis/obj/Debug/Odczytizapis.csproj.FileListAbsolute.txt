@@ -1,0 +1,52 @@
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\Bin\Debug\ApplicationIcon.png
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Background.png
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.dll
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.pdb
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\Bin\Debug\AppManifest.xaml
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.xap
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\obj\Debug\App.g.i.cs
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\obj\Debug\MainPage.g.i.cs
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.g.resources
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.dll
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.pdb
+C:\Users\Arkadiusz\Desktop\OBW\Odczytizapis\Odczytizapis\obj\Debug\XapCacheFile.xml
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\Bin\Debug\ApplicationIcon.png
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Background.png
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.dll
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.pdb
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\Bin\Debug\AppManifest.xaml
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.xap
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\obj\Debug\App.g.i.cs
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\obj\Debug\MainPage.g.i.cs
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.g.resources
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.dll
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.pdb
+C:\Users\Arkadiusz\Desktop\semestr5\OBW\Odczytizapis\Odczytizapis\obj\Debug\XapCacheFile.xml
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\Bin\Debug\ApplicationIcon.png
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Background.png
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.dll
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.pdb
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\Bin\Debug\AppManifest.xaml
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.xap
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\App.g.i.cs
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\MainPage.g.i.cs
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.g.resources
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.dll
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.pdb
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\XapCacheFile.xml
+C:\Users\Szymander\Documents\OBW\Odczytizapis\Odczytizapis\obj\Debug\start.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\Bin\Debug\ApplicationIcon.png
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\Bin\Debug\Background.png
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.dll
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.pdb
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\Bin\Debug\AppManifest.xaml
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\Bin\Debug\Odczytizapis.xap
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\App.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\MainPage.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\start.g.i.cs
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.g.resources
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.dll
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\Odczytizapis.pdb
+C:\Users\Szymander\Desktop\APLIKACJE MOBILNE\Odczytizapis\Odczytizapis\obj\Debug\XapCacheFile.xml
